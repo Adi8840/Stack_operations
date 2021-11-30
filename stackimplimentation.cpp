@@ -1,3 +1,4 @@
+//This Program is written in C language(Aditya Rajpoot).
 //Stack implimentation;
 #include<stdio.h>
 #include<conio.h>
